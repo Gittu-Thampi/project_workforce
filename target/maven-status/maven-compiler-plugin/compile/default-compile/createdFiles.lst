@@ -1,0 +1,9 @@
+code\structure\workforce\service\config\Application.class
+code\structure\workforce\service\config\AppConfig.class
+code\structure\workforce\service\util\Util.class
+code\structure\workforce\service\controller\WorkforceController.class
+code\structure\workforce\service\dto\Work.class
+code\structure\workforce\service\service\WorkforceService.class
+code\structure\workforce\service\service\WorkforceManager.class
+code\structure\workforce\service\dto\Workforce.class
+code\structure\workforce\service\dto\Allocation.class

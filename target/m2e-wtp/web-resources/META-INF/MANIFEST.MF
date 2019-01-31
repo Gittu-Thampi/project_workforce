@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: workforce
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gittu
+Implementation-Vendor-Id: code
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/workforce/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
